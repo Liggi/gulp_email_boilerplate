@@ -1,0 +1,11 @@
+{
+  "name": "Gulp-Email-Boilerplate",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-premailer": "^0.3.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.3",
+    "imagemin-pngquant": "^4.0.0"
+  }
+}
